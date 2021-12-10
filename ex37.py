@@ -4,7 +4,7 @@ else:
     print "Paradox?"
 
 with open('test.txt', 'w') as f:
-    f.write("Your mom gae")
+    f.write("Hola")
 
 assert True
 
